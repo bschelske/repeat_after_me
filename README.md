@@ -1,5 +1,7 @@
 # Repeat After Me 🦀
 
+![Rust](https://img.shields.io/badge/rust-stable-orange)
+
 My very first Rust project — made while learning Rust, VSCode, and Linux!
 
 ---
